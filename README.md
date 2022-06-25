@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shazi532
+- 👋 Hi, I’m Shazi
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Salesforce
 - 💞️ I’m looking to collaborate on apex coding
